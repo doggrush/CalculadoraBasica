@@ -1,2 +1,4 @@
 # CalculadoraBasica
-uma calculadora basica em html, js e css
+Uma calculadora basica em HTML5, JavaScript e CSS3
+
+[Preview do Site](https://doggrush.github.io/CalculadoraBasica/aula.html)
